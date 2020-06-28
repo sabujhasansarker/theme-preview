@@ -59,12 +59,12 @@ const Demo = () => {
                 />
                 <p className="position-absolute ">
                   {data.bandeg && (
-                    <span class="badge bg-danger">{data.bandeg}</span>
+                    <span className="badge bg-danger">{data.bandeg}</span>
                   )}
                 </p>
                 <div className="demo_footer position-absolute">
-                  <h3 class="title">{data.name}</h3>
-                  <p class="info">{data.text}</p>
+                  <h3 className="title">{data.name}</h3>
+                  <p className="info">{data.text}</p>
                 </div>
               </a>
             </div>
