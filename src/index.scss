@@ -1,0 +1,18 @@
+$primary: #1652f0;
+$protfulio-text: #869ab8;
+$protfulio: #f7f8fc;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1140px,
+  xxl: 1140px,
+);
+
+$theme-colors: (
+  "protfulio": $protfulio-text,
+  "protfulio-bg": $protfulio,
+);
+
+@import "../node_modules/bootstrap//scss//bootstrap.scss";
