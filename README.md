@@ -1,5 +1,5 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dfe3122e-492e-4fc6-b10f-a6f1e921a0bd/deploy-status)](https://protfulio-sabuj.netlify.app)
-# Theme proviewer
+# Theme previewer
 ![Theme provider](https://i.ibb.co/MV34KyX/download-3-removebg-preview.png)
 
 # :man_technologist: Technology Stack
@@ -27,4 +27,4 @@ Sabuj Hasan Sarker
 
 ### [](https://github.com/sabujhasansarker/Dev-Connector-2.0#live)[](https://github.com/sabujhasansarker/Dev-Connector#live)Live
 
-[Theme Provider](https://protfulio-sabuj.netlify.app/)
+[Theme Previder](https://protfulio-sabuj.netlify.app/)
