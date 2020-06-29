@@ -52,7 +52,7 @@ const Demo = () => {
           {demoDatas.map((data, index) => (
             <div className="col-lg-4 col-md-6 mb-4 " key={index}>
               <a
-                href="#someting"
+                href="#demo"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-decoration-none "
