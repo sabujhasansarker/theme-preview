@@ -1,5 +1,4 @@
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2e6cffb4-281c-4127-9ea7-c59f8721fd4f/deploy-status)](https://protfulio-sabuj.netlify.app)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dfe3122e-492e-4fc6-b10f-a6f1e921a0bd/deploy-status)](https://protfulio-sabuj.netlify.app)
 # Theme proviewer
 ![Theme provider](https://i.ibb.co/MV34KyX/download-3-removebg-preview.png)
 
