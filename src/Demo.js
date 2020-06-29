@@ -51,7 +51,12 @@ const Demo = () => {
         <div className="row">
           {demoDatas.map((data, index) => (
             <div className="col-lg-4 col-md-6 mb-4 " key={index}>
-              <a href="" className="text-decoration-none ">
+              <a
+                href=""
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-decoration-none "
+              >
                 <img
                   src="https://quixlab.com/demo/tradix/images/portfolio.jpg"
                   alt=""

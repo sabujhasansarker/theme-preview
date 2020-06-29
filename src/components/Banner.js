@@ -18,6 +18,8 @@ const Banner = () => {
               <a
                 href="https://themeforest.net/item/covtrack-coronavirus-live-traker-dashboard/26313593"
                 className="btn btn-primary mr-3 btn-banner d-table mb-2 mb-md-0"
+                target="_blank"
+                rel="noopener noreferrer"
               >
                 Buy
               </a>
@@ -25,6 +27,7 @@ const Banner = () => {
                 href="https://docs.google.com/forms/d/1AD86Th5E7lBRtp3mwVN4p5xTE7X7vzj6DsTt1cgQgyc/edit#responses"
                 className="btn btn-outline-primary btn-banner d-table "
                 target="_blank"
+                rel="noopener noreferrer"
               >
                 Hire me
               </a>

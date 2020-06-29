@@ -50,6 +50,8 @@ const Navbar = () => {
                 <a
                   href="https://themeforest.net/item/covtrack-coronavirus-live-traker-dashboard/26313593"
                   className="btn btn-primary px-4 btn-nav d-table mb-2 mb-md-0 "
+                  target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Buy
                 </a>
@@ -57,6 +59,7 @@ const Navbar = () => {
                   href="https://docs.google.com/forms/d/1AD86Th5E7lBRtp3mwVN4p5xTE7X7vzj6DsTt1cgQgyc/edit#responses"
                   className="btn btn-outline-primary ml-md-2 btn-nav d-table "
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Hire me
                 </a>
